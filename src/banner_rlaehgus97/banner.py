@@ -2,5 +2,5 @@ from pyfiglet import Figlet
 
 def show():
     f = Figlet(font='slant')
-    print(f.renderText('RLAEHGUS97')
+    print(f.renderText('RLAEHGUS97'))
 
